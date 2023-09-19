@@ -34,6 +34,12 @@
 		<Unit filename="challenge1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="challenge2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="challenge3.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
